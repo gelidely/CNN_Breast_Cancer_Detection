@@ -1,6 +1,6 @@
 # CNN_Breast_Cancer_Detection
 
-PROJECT OVERVIEW:
+### PROJECT OVERVIEW:
 
 Binary classification: cancer vs. no-cancer tissue in medical images via Convolutional Neural Networks (CNN)
 
@@ -9,7 +9,7 @@ Evolutionary algorithms to find optimal hyperparameters
 Mount slides of breast cancer specimens at 40x magnification
 
 
-IMAGE COUNTS:
+### IMAGE COUNTS:
 
 Negative class: 198,738
 Positive class: 78,786
@@ -20,7 +20,7 @@ Dataset size: 1.6 GB
 Image size: 50 x 50 pixels
 
 
-SUMMARY OF EVOLUTIONARY ALGORITHMS:
+### WHY EVOLUTIONARY ALGORITHMS:
 
 A systematic approach to find an optimal neural network model requires exploring a large combination of architectures and hyperparameters, which is very difficult to do manually (Miikkulainen et al., 2019).
 
