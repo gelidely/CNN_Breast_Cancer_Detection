@@ -1,0 +1,5 @@
+Cruz-Roa, A., et al. (2014). Automatic detection of invasive ductal carciroma in whole slide images with Convolutional Neural Networks. Procedures of SPIE, 9041(904103). Retrieved from https://www.researchgate.net/publication/263052166_Automatic_detection_of_invasive_ductal_carcinoma_in_whole_slide_images_with_Convolutional_Neural_Networks
+
+Eiben, A. E., & Smith, J. E. (2015). Introduction to Evolutionary Computing, 2nd Ed. Amsterdam, The Netherlands: Springer. Print.
+
+Janowczyk, A. (2015). Invasive ductal carcinoma (IDC) segmentation. Retrieved from http://www.andrewjanowczyk.com/use-case-6-invasive-ductal-carcinoma-idc-segmentation/
